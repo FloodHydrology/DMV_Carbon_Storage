@@ -8,7 +8,7 @@ The goal of this repository is to estimate water level at each of Kottkamp's sam
 
 ### Repo description
 
-The *data* folder contains both water level data (*waterLevel.csv*) and cross section elevation data (*xs_survey.csv*). The *analysis* folder contains analysis divided into steps denoted by Roman numeral prefixes. Header files in each script describe their specific purpose. 
+The *data* folder contains both water level data (*waterLevel.csv*) and cross section elevation data (*xs_survey.csv*). The *analysis* folder contains analyses divided into steps denoted by Roman numeral prefixes. Header files in each script describe their specific purpose. 
 
 ### Citation
 >Kottkamp A, Tully K, Jones CN, Palmer M. Both organo-mineral associations and physical protection in aggregates contribute to carbon stabilization at the transition zone of seasonally flooded wetlands. Planned submission: Summer 2020.
